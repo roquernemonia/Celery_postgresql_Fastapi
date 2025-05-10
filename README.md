@@ -21,10 +21,6 @@ This repo was built up with two services: **API** service and **Worker** service
 - Message Queue
   - run task
   - send task progress
-  
-Workflow:
-
-![workflow](./out/workflow.png)
 
 _NOTE_:
 
